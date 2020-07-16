@@ -1,2 +1,2 @@
 # Learning-Git
-Rainbow Poem by Shiffman Sir.
+Rainbow Poem by Shiffman Sir(It's terrible).
